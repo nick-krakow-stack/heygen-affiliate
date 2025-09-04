@@ -1,0 +1,28 @@
+# Supervisor logs and runtime files
+supervisord.log
+supervisord.pid
+supervisor.sock
+heygen_landing.log
+heygen_landing_error.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if added later)
+node_modules/
+
+# Environment variables
+.env
+.env.local
