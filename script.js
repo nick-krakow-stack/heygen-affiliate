@@ -244,8 +244,8 @@ document.addEventListener('DOMContentLoaded', function() {
     // initABTest();
     
     console.log('🚀 HeyGen Landing Page loaded successfully!');
-    console.log('📊 Mario Burgard copywriting framework implemented');
-    console.log('🎯 Direct Response elements active');
+    console.log('📊 Direct Response copywriting framework implemented');
+    console.log('🎯 Conversion elements active');
 });
 
 // Utility functions for future enhancements

@@ -1,6 +1,6 @@
 # HeyGen Affiliate Landing Page
 
-Eine conversion-optimierte Landing Page für HeyGen AI-Video-Generator, erstellt nach Mario Burgard's Direct-Response-Methoden und wissenschaftlicher Farbpsychologie.
+Eine conversion-optimierte Landing Page für HeyGen AI-Video-Generator mit wissenschaftlich fundierter Farbpsychologie und Direct-Response-Copywriting.
 
 ## 🎯 Ziel
 
@@ -119,9 +119,9 @@ supervisord -c supervisord.conf
 
 ## 📞 Contact
 
-Fragen zum Projekt oder Mario Burgard Copywriting-Methoden? 
+Fragen zum Projekt oder Conversion-Optimierung? 
 Erstelle ein Issue oder kontaktiere über GitHub.
 
 ---
 
-**Built with ❤️ and Mario Burgard's Direct-Response principles**
+**Built with ❤️ and scientific Direct-Response principles**
